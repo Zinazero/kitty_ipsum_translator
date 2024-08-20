@@ -1,0 +1,1 @@
+./script.sh: line 11: bad_command: command not found
